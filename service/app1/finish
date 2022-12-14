@@ -1,0 +1,4 @@
+#!/usr/bin/env sh
+
+echo "app1 挂掉啦！..."
+echo "app1 restart ok!"
